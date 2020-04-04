@@ -15,3 +15,13 @@ We experimented with :
 3. No. of epochs - 50,60,100 
 4. Optimization technique - SGD with momentum (0.9) & decay, Adam
 5. No. of groups in ShuffleNet (g=2,g=3)
+
+
+
+
+Assignment participants : 
+D19001 Abhilasha Chourasia
+D19004 Ankit Das
+D19017 Kusum Sharma
+D19023 Pradip Sen
+D19025 Rachita Pateria
